@@ -17,7 +17,7 @@ const AUTO_SLIDE_MS = 6000;
 
 const slides: HeroSlide[] = [
   {
-    title: "Hany ElAraby & C",
+    title: "Hany ElAraby & Co",
     description:
       "HANY ELARABY is an Egyptian independent firm established in 2005 of chartered and certified accountants and registered auditors. We provide audit, accounting, tax, and financial advisory services to a wide range of enterprises and companies across many industries.",
     image: "/images/hero.png",
